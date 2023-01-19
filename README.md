@@ -1,4 +1,4 @@
-<img align="center" src="https://i.pinimg.com/originals/48/64/f5/4864f5dced20b352eaf1572293a3d7bf.gif" height="600px" />
+<img align="center" src="https://i.pinimg.com/originals/48/64/f5/4864f5dced20b352eaf1572293a3d7bf.gif" height="400px" />
 
 
 # Olá, sou o Wesley Renam!
