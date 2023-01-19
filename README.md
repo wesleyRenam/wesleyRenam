@@ -44,8 +44,8 @@ Estudante de Desenvolvimento Web Pela [Trybe](https://www.betrybe.com).
  <a href = "mailto:wesleyrenamjob@gmail.com"><img src="https://img.shields.io/badge/-wesleyrenamjob-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
 
 ## ➤ My stats:
-  <a href="https://github.com/Willian-Rodrigues">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Willian-Rodrigues&theme=radical&show_icons=true" />
+  <a href="https://github.com/wesleyRenam">
+    <img align="center" src="![Wesley Renam GitHub stats](https://github-readme-stats.vercel.app/api?username=wesleyRenam&show_icons=true&theme=radical)" />
 </a>
 
   <a href="https://github.com/Willian-Rodrigues">
