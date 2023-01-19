@@ -13,10 +13,17 @@ Estudante de Desenvolvimento Web Pela [Trybe](https://www.betrybe.com).
 
   - #### Frontend
     ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+    ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+    ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
     ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
     ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
     ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-    ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+    ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+    ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 
  - #### Backend
     Em andamento...
@@ -30,11 +37,11 @@ Estudante de Desenvolvimento Web Pela [Trybe](https://www.betrybe.com).
     ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
     ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## 📧 Contact me on:
+## 📧 Contatos:
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willianrsilva/)
-[![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5512982277740) 
-
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-renam-de-souza-santos-8267a7206/)
+[![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5579998822320) 
+ <a href = "mailto:wesleyrenamjob@gmail.com"><img src="https://img.shields.io/badge/-wesleyrenamjob-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
 
 ## ➤ My stats:
   <a href="https://github.com/Willian-Rodrigues">
@@ -44,16 +51,4 @@ Estudante de Desenvolvimento Web Pela [Trybe](https://www.betrybe.com).
   <a href="https://github.com/Willian-Rodrigues">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Willian-Rodrigues&layout=compact&theme=radical" />
 </a>
- 
-  
-## ➤ Most Value Projects:
-  <a href="https://github.com/Willian-Rodrigues/nestjs-prisma-querybuilder-interface">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Willian-Rodrigues&repo=nestjs-prisma-querybuilder-interface&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
-  
-  <a href="https://github.com/Willian-Rodrigues/api-sem3-target-crm">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Willian-Rodrigues&repo=api-sem3-target-crm&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=009208&size=33&center=true&vCenter=true&width=840&height=80&lines=Staying+focused+and+dedication;is+the+vision+for+a+bright+future)](https://git.io/typing-svg)
  
