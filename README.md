@@ -1,7 +1,5 @@
 ![Wesley Renam](https://i.pinimg.com/originals/b5/fd/3f/b5fd3fbe984103e08b9482471484394b.gif)
-<div width="100px">
-  ![Wesley Renam](https://i.pinimg.com/originals/48/64/f5/4864f5dced20b352eaf1572293a3d7bf.gif)
-</div>
+![Wesley Renam](https://i.pinimg.com/originals/48/64/f5/4864f5dced20b352eaf1572293a3d7bf.gif)
 
 
 # Olá, sou o Wesley Renam!
