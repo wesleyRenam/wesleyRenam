@@ -58,11 +58,11 @@ Estudante de Desenvolvimento Web Pela [Trybe](https://www.betrybe.com).
 ## ➤ Meus status:
   
    <a href="https://github.com/wesleyRenam">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=wesleyRenam&theme=transparent&show_icons=true" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=wesleyRenam&theme=dark&show_icons=true" />
 </a>
 
   <a href="https://github.com/wesleyRenam">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=wesleyRenam&layout=compact&theme=transparent" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=wesleyRenam&layout=compact&theme=dark" />
 </a>
 
 
