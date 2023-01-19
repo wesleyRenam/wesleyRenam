@@ -1,16 +1,59 @@
-### Hi there 👋
+![Willian Rodrigues](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
-<!--
-**wesleyRenam/wesleyRenam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Olá, sou o Wesley Renam!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estudante de Desenvolvimento Web Pela [Trybe](https://www.betrybe.com).
+
+
+## 🔭 Hard-Skills
+<div align="center">
+  <img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="200px" />
+</div>
+
+  - #### Frontend
+    ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+    ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+    ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+    ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+    ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+
+ - #### Backend
+    Em andamento...
+ - #### Test
+    ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+    ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+    ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+    
+
+ - #### Banco de Dados
+    ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+    ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+## 📧 Contact me on:
+
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willianrsilva/)
+[![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5512982277740) 
+
+
+## ➤ My stats:
+  <a href="https://github.com/Willian-Rodrigues">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Willian-Rodrigues&theme=radical&show_icons=true" />
+</a>
+
+  <a href="https://github.com/Willian-Rodrigues">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Willian-Rodrigues&layout=compact&theme=radical" />
+</a>
+ 
+  
+## ➤ Most Value Projects:
+  <a href="https://github.com/Willian-Rodrigues/nestjs-prisma-querybuilder-interface">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Willian-Rodrigues&repo=nestjs-prisma-querybuilder-interface&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+  
+  <a href="https://github.com/Willian-Rodrigues/api-sem3-target-crm">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Willian-Rodrigues&repo=api-sem3-target-crm&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=009208&size=33&center=true&vCenter=true&width=840&height=80&lines=Staying+focused+and+dedication;is+the+vision+for+a+bright+future)](https://git.io/typing-svg)
+ 
