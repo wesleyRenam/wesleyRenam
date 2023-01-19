@@ -1,4 +1,4 @@
-![Wesley Renam](https://i.pinimg.com/originals/55/04/f3/5504f391fb5a8207265e854e4343e65b.gif)
+![Wesley Renam](https://i.pinimg.com/originals/93/d7/43/93d743ede4dba58bd6e6c47cb57b2673.gif)
 
 
 # Olá, sou o Wesley Renam!
