@@ -8,7 +8,7 @@ Estudante de Desenvolvimento Web Pela [Trybe](https://www.betrybe.com).
 
 ## 🔭 Hard-Skills
 <div align="center">
-  <img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="200px" />
+  <img align="right" src="https://i.pinimg.com/originals/82/a1/e7/82a1e7229fce584fd30fd2eb20ad727c.gif" height="200px" />
 </div>
 
   - #### Frontend
