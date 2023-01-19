@@ -8,7 +8,7 @@ Estudante de Desenvolvimento Web Pela [Trybe](https://www.betrybe.com).
 
 ## 🔭 Hard-Skills
 <div align="center">
-  <img align="right" src="https://i.pinimg.com/564x/f4/6b/d8/f46bd833bc3839bccaecb86ad151b0ce.jpg" width="400px"/>
+  <img align="right" src="https://i.pinimg.com/564x/f4/6b/d8/f46bd833bc3839bccaecb86ad151b0ce.jpg" width="200px"/>
 </div>
 
   - #### Frontend
