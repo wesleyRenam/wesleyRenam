@@ -43,10 +43,7 @@ Estudante de Desenvolvimento Web Pela [Trybe](https://www.betrybe.com).
 [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5579998822320) 
  <a href = "mailto:wesleyrenamjob@gmail.com"><img src="https://img.shields.io/badge/-wesleyrenamjob-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
 
-## ➤ My stats:
-  <a href="https://github.com/wesleyRenam">
-   [![Wesley Renam GitHub stats](https://github-readme-stats.vercel.app/api?username=wesleyRenam)](https://github.com/wesleyRenam/github-readme-stats)
-  </a>
+## ➤ Meus status:
   
    <a href="https://github.com/wesleyRenam">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=wesleyRenam&theme=radical&show_icons=true" />
