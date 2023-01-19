@@ -1,4 +1,4 @@
-![Willian Rodrigues](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+![Wesley Renam](https://i.pinimg.com/originals/55/04/f3/5504f391fb5a8207265e854e4343e65b.gif)
 
 
 # Olá, sou o Wesley Renam!
