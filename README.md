@@ -6,7 +6,7 @@
 Estudante de Desenvolvimento Web Pela [Trybe](https://www.betrybe.com).
 
 
-## 🔭 Hard-Skills
+## 🧑🏻‍💻 Hard-Skills
 
   - #### Frontend
     ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
